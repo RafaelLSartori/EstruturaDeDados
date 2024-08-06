@@ -19,18 +19,21 @@ public class Main {
         int resposta2 = m2.menorValorVetor(vet2, menor, tamanho);
         System.out.println(resposta2);
 
+        //Exercício 3
         Recursividade03 m3 = new Recursividade03();
         int fat = 1;
         int n3 = 4;
         int resposta3 = m3.fatorial(n3, fat);
         System.out.println(resposta3);
 
+        //Exercício 4
         Recursividade04 m4 = new Recursividade04();
         int[] vet4 = {-12, -2, 3, -10, 5};
         tamanho = vet4.length;
         int resposta4 = m4.vetorNegativo(vet4, tamanho);
         System.out.println(resposta4);
 
+        //Exercício 5
         Recursividade05 m5 = new Recursividade05();
         double n5 = 4;
         double resposta5 = m5.serie(n5);
