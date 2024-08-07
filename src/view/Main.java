@@ -11,7 +11,7 @@ public class Main {
         int menor = vet2[4];
         int tamanho = vet2.length;
         int resposta2 = m2.menorValorVetor(vet2, menor, tamanho);
-        System.out.println(resposta2);
+        System.out.println("Menor valor do vetor: " + resposta2);
 
     }
 }

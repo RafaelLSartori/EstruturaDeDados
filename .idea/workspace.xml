@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3154de0e-d7c3-4bd2-9fb6-d9069072c623" name="Changes" comment="First Commit">
-      <change beforePath="$PROJECT_DIR$/src/controller/Recursividade01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/controller/Recursividade02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controller/Recursividade02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/controller/Recursividade03.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/controller/Recursividade04.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/controller/Recursividade05.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/view/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
