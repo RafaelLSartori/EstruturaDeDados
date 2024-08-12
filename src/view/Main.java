@@ -7,9 +7,8 @@ public class Main {
 
         //Exercício 3
         Recursividade03 m3 = new Recursividade03();
-        int fat = 1;
         int n3 = 4;
-        int resposta3 = m3.fatorial(n3, fat);
+        int resposta3 = m3.fatorial(n3);
         System.out.println(resposta3);
 
     }

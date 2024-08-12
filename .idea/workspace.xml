@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3154de0e-d7c3-4bd2-9fb6-d9069072c623" name="Changes" comment="First Commit">
-      <change beforePath="$PROJECT_DIR$/src/controller/Recursividade03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controller/Recursividade03.java" afterDir="false" />
-    </list>
+    <list default="true" id="3154de0e-d7c3-4bd2-9fb6-d9069072c623" name="Changes" comment="First Commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
